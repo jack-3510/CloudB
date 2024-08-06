@@ -1,7 +1,7 @@
 # CloudB
 this is my frist git resository.
 <br>
-Anuthor-  zack
+Anuthor-  jack
 - 👋 Hi, I’m @jack-3510
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
